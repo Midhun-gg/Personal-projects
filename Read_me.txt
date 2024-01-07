@@ -1,0 +1,1 @@
+This is a personal python project. It involves a code to parse a given log file. The python file uses numpy and pandas modules. 
